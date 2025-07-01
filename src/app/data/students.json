@@ -1,0 +1,107 @@
+[
+    {
+      "id": "1",
+      "name": "Houda Bouhsiss",
+      "image": "/students/houda.jpeg",
+      "imageB": "/students/HoudaB.jpeg",
+      "quote": "Student @ 1337 Promo 2021"
+    },
+    {
+      "id": "2",
+      "name": "Abdessamad Laamimi",
+      "imageB": "/students/LamimiB.jpeg",
+      "image": "/students/laamimi.jpeg",
+      "quote": "I found my passion here."
+    },
+    {
+      "id": "3",
+      "name": "Oumaima El Youssefi",
+      "imageB": "/students/OumaimaB.jpeg",
+      "image": "/students/Oumaima.jpeg",
+      "quote": "It's not just a school, it's a family."
+    },
+    {
+      "id": "4",
+      "name": "Youssef Touate",
+      "imageB": "/students/YoussefB.jpeg",
+      "image": "/students/Youssef.jpeg",
+      "quote": "I learned more than I ever expected."
+    },
+    {
+      "id": "5",
+      "name": "Hamza Chakoubi",
+      "image": "/students/hamza.jpeg",
+      "imageB" : "/students/hamzaB.jpeg",
+      "quote": "The teachers here are amazing."
+    },
+    {
+      "id": "6",
+      "name": "Omar Taouil",
+      "image": "/students/Omar.jpeg",
+      "imageB" : "/students/OmarB.jpeg",
+      "quote": "This place feels like home."
+    },
+    {
+      "id": "7",
+      "name": "Nouhaila Lahmar",
+      "image": "/students/Nouhaila.jpeg",
+      "imageB" : "/students/NouhailaB.jpeg",
+      "quote": "I made friends for life here."
+    },
+    {
+      "id": "8",
+      "name": "Mohamed Khames",
+      "image": "/students/mohamed.jpeg",
+      "imageB": "/students/mohamedB.jpeg",
+      "quote": "The projects we do are so much fun!"
+    },
+    {
+      "id": "9",
+      "name": "Malika Aamer",
+      "image": "/students/Malika.jpeg",
+      "imageB": "/students/MalikaB.jpeg",
+      "quote": "I love the creative freedom we have."
+    },
+    {
+      "id": "10",
+      "name": "Alae Ez Zaouine",
+      "image": "/students/alae.jpeg",
+      "imageB": "/students/alaeB.jpeg",
+      "quote": "This school inspires me every day."
+    },
+    {
+      "id": "11",
+      "name": "Haitam Bouladhan",
+      "image": "/students/haitam.jpeg",
+      "imageB": "/students/haitamB.jpeg",
+      "quote": "I never want to leave this place."
+    },
+    {
+      "id": "12",
+      "name": "Nouhaila Ben Aissa",
+      "image": "/students/NouhailaBen.jpeg",
+      "imageB": "/students/NouhailaBenB.jpeg",
+      "quote": "The support from teachers is incredible."
+    },
+    {
+      "id": "13",
+      "name": "Safae Meftah",
+      "image": "/students/Safae.jpeg",
+      "imageB": "/students/SafaeB.jpeg",
+      "quote": "I feel like I can achieve anything here."
+    },
+    {
+      "id": "14",
+      "name": "Fatima Zahra Ramdani",
+      "image": "/students/Ramdani.jpeg",
+      "imageB": "/students/RamdaniB.jpeg",
+      "quote": "This school is a place of growth."
+    },
+    {
+      "id": "15",
+      "name": "Sara Bensarghin",
+      "image": "/students/Sara.jpeg",
+      "imageB": "/students/SaraB.jpeg",
+      "quote": "I discovered my potential here."
+    }
+  ]
