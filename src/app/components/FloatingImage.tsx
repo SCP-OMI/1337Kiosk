@@ -18,7 +18,7 @@ export default function FloatingImage({
   width,
   height,
   opacity = 0.2,
-  speed = 50,
+  speed = 10,
   rotate = false,
   className = '',
 }: FloatingImageProps) {
@@ -78,7 +78,7 @@ const requestRef = useRef<number | null>(null);
         height={height}
         className={className}
         style={{
-          animation: rotate ? 'spin 12s linear infinite' : undefined,
+          animation: rotate ? 'spin 20s linear infinite' : undefined,
         }}
       />
       <style jsx>{`

@@ -101,35 +101,35 @@ export default function AutoCarouselRow({
             <div className="fixed h-[full] w-full inset-0 z-50 pointer-events-none">
               <FloatingImage
               src="/students/crt.png"
-              width={150}
+              width={400}
               height={80}
               opacity={0.6}
               rotate
               />
               <FloatingImage
               src="/students/handphone.png"
-              width={150}
+              width={400}
               height={80}
               opacity={0.8}
               rotate
               />
               <FloatingImage
               src="/students/retroCrt.png"
-              width={140}
+              width={400}
               height={100}
               opacity={0.85}
               rotate
               />
               <FloatingImage
               src="/students/radio.png"
-              width={150}
+              width={400}
               height={70}
               opacity={0.85}
               rotate
               />
               <FloatingImage
                   src="/students/phone.png"
-                  width={200}
+                  width={400}
                   height={200}
                   opacity={0.9}
                   rotate
@@ -137,7 +137,7 @@ export default function AutoCarouselRow({
               />
             <FloatingImage
                   src="/students/casette.png"
-                  width={100}
+                  width={400}
                   height={90}
                   opacity={0.8}
                   rotate
