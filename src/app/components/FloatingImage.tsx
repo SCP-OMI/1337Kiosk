@@ -2,7 +2,6 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
-import student from '../data/students.json'; // Adjust the import path as necessary
 
 interface FloatingImageProps {
   src: string;
