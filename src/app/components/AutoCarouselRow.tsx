@@ -100,35 +100,35 @@ export default function AutoCarouselRow({
             {/* Floating Images */}
             <div className="fixed h-[full] w-full inset-0 z-50 pointer-events-none">
               <FloatingImage
-              src="/students/crt.png"
+              src="/students/Icons/crt.png"
               width={400}
               height={80}
               opacity={0.6}
               rotate
               />
               <FloatingImage
-              src="/students/handphone.png"
+              src="/students/Icons/handphone.png"
               width={400}
               height={80}
               opacity={0.8}
               rotate
               />
               <FloatingImage
-              src="/students/retroCrt.png"
+              src="/students/Icons/retroCrt.png"
               width={400}
               height={100}
               opacity={0.85}
               rotate
               />
               <FloatingImage
-              src="/students/radio.png"
+              src="/students/Icons/radio.png"
               width={400}
               height={70}
               opacity={0.85}
               rotate
               />
               <FloatingImage
-                  src="/students/phone.png"
+                  src="/students/Icons/phone.png"
                   width={400}
                   height={200}
                   opacity={0.9}
@@ -136,7 +136,7 @@ export default function AutoCarouselRow({
                   className="invert"
               />
             <FloatingImage
-                  src="/students/casette.png"
+                  src="/students/Icons/casette.png"
                   width={400}
                   height={90}
                   opacity={0.8}
@@ -144,6 +144,7 @@ export default function AutoCarouselRow({
                   className="invert"
 >
                 </FloatingImage>
+              
             </div>
 
             {/* Modal */}

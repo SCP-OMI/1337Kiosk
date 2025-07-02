@@ -3,28 +3,28 @@
       "id": "1",
       "name": "Houda Bouhsiss",
       "image": "/students/houda.jpeg",
-      "imageB": "/students/HoudaB.jpeg",
+      "imageB": "/students/houdaB.jpeg",
       "quote": "Student @ 1337 Promo 2021"
     },
     {
       "id": "2",
       "name": "Abdessamad Laamimi",
-      "imageB": "/students/LamimiB.jpeg",
-      "image": "/students/Lamimi.jpeg",
+      "imageB": "/students/laamimiB.jpeg",
+      "image": "/students/laamimi.jpeg",
       "quote": "I found my passion here."
     },
     {
       "id": "3",
       "name": "Oumaima El Youssefi",
-      "imageB": "/students/OumaimaB.jpeg",
-      "image": "/students/Oumaima.jpeg",
+      "imageB": "/students/oumaimaB.jpeg",
+      "image": "/students/oumaima.jpeg",
       "quote": "It's not just a school, it's a family."
     },
     {
       "id": "4",
       "name": "Youssef Touate",
-      "imageB": "/students/YoussefB.jpeg",
-      "image": "/students/Youssef.jpeg",
+      "imageB": "/students/youssefB.jpeg",
+      "image": "/students/youssef.jpeg",
       "quote": "I learned more than I ever expected."
     },
     {
@@ -37,15 +37,15 @@
     {
       "id": "6",
       "name": "Omar Taouil",
-      "image": "/students/Omar.jpeg",
-      "imageB" : "/students/OmarB.jpeg",
+      "image": "/students/omar.jpeg",
+      "imageB" : "/students/omarB.jpeg",
       "quote": "This place feels like home."
     },
     {
       "id": "7",
       "name": "Nouhaila Lahmar",
-      "image": "/students/Nouhaila.jpeg",
-      "imageB" : "/students/NouhailaB.jpeg",
+      "image": "/students/nouhaila.jpeg",
+      "imageB" : "/students/nouhailaB.jpeg",
       "quote": "I made friends for life here."
     },
     {
@@ -58,8 +58,8 @@
     {
       "id": "9",
       "name": "Malika Aamer",
-      "image": "/students/Malika.jpeg",
-      "imageB": "/students/MalikaB.jpeg",
+      "image": "/students/malika.jpeg",
+      "imageB": "/students/malikaB.jpeg",
       "quote": "I love the creative freedom we have."
     },
     {
@@ -79,29 +79,29 @@
     {
       "id": "12",
       "name": "Nouhaila Ben Aissa",
-      "image": "/students/NouhailaBen.jpeg",
-      "imageB": "/students/NouhailaBenB.jpeg",
+      "image": "/students/nouhailaBen.jpeg",
+      "imageB": "/students/nouhailaBenB.jpeg",
       "quote": "The support from teachers is incredible."
     },
     {
       "id": "13",
       "name": "Safae Meftah",
-      "image": "/students/Safae.jpeg",
+      "image": "/students/safae.jpeg",
       "imageB": "/students/SafaeB.jpeg",
       "quote": "I feel like I can achieve anything here."
     },
     {
       "id": "14",
       "name": "Fatima Zahra Ramdani",
-      "image": "/students/Ramdani.jpeg",
-      "imageB": "/students/RamdaniB.jpeg",
+      "image": "/students/ramdani.jpeg",
+      "imageB": "/students/ramdaniB.jpeg",
       "quote": "This school is a place of growth."
     },
     {
       "id": "15",
       "name": "Sara Bensarghin",
-      "image": "/students/Sara.jpeg",
-      "imageB": "/students/SaraB.jpeg",
+      "image": "/students/sara.jpeg",
+      "imageB": "/students/saraB.jpeg",
       "quote": "I discovered my potential here."
     }
   ]

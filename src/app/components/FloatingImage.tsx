@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from 'react';
 import Image from 'next/image';
+import student from '../data/students.json'; // Adjust the import path as necessary
 
 interface FloatingImageProps {
   src: string;
@@ -18,7 +19,7 @@ export default function FloatingImage({
   width,
   height,
   opacity = 0.2,
-  speed = 10,
+  speed = 50,
   rotate = false,
   className = '',
 }: FloatingImageProps) {
@@ -73,7 +74,7 @@ const requestRef = useRef<number | null>(null);
     >
       <Image
         src={src}
-        alt="Floating Icon"
+        alt={student.name}
         width={width}
         height={height}
         className={className}
