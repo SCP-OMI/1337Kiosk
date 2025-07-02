@@ -74,7 +74,7 @@ const requestRef = useRef<number | null>(null);
     >
       <Image
         src={src}
-        alt={student.name}
+        alt="Floating Image"
         width={width}
         height={height}
         className={className}
